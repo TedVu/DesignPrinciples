@@ -8,4 +8,5 @@
 
 - This principle is really similar to cohesion principle.
 
-- We don't want to change things because we don't want to retest software, conduct interaction testing
+- We don't want to change things because we don't want to retest software, conduct interaction testing.
+
